@@ -15,7 +15,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election shows that:
-- There were "x" votes cas in the election.
+- There were "369,711" votes cas in the election.
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
